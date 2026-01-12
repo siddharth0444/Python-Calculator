@@ -21,5 +21,5 @@ try :
             print("There was an error")
 
 except Exception as e :
-    print("enetr a valid value of a and b")
+    print("enter a valid value of a and b")
     
